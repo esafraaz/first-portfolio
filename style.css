@@ -1,0 +1,34 @@
+body{
+    font-family: 'Permanent Marker', cursive;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.myname{
+    color: chocolate;
+}
+section{
+    display: flex;
+}
+.half-w{
+    width: 50%;
+    padding: 5%;
+}
+.half-w img{
+    width: 80%;
+}
+.hire-button{
+    text-decoration: none;
+    background-color: rgb(248, 73, 4);
+    color: cornsilk;
+    padding: 10px 40px;
+    background-image: -moz-linear-gradient(rgb(241, 117, 117) black);
+    font-weight: 700;
+    border-radius: 10px;
+    
+}
+.baground{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
